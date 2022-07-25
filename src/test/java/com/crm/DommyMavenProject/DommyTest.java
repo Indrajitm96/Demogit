@@ -10,6 +10,7 @@ class DommyTest {
 		System.out.println("bye");
 		System.out.println("good afternoon");
 		System.out.println("ta ta");
+		System.out.println("hey");
 	}
 
 }
