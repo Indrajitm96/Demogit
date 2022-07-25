@@ -8,6 +8,7 @@ class DommyTest {
 		System.out.println("of India");
 		System.out.println("proud Indian");
 		System.out.println("bye");
+		System.out.println("good afternoon");
 	}
 
 }
