@@ -6,6 +6,7 @@ class DommyTest {
 		System.out.println("hello");
 		System.out.println("Our new President Draupadi Murmu");
 		System.out.println("of India");
+		System.out.println("proud Indian");
 	}
 
 }
